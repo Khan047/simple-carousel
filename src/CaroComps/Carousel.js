@@ -64,7 +64,7 @@ class Carousel extends Component {
   
     render() {
       return (
-        <div >
+        <div className="items">
           <LeftArrow onClick={e => this.backSlide(e)} glyph="&#8592;" />
   
           <ul >

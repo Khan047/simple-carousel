@@ -6,6 +6,7 @@
 }
 
 .container {
+  margin:100px;
   display: flex;
   justify-content: center;
   background-color: rgb(255, 255, 255);
@@ -20,11 +21,12 @@
   width:200px; margin:0 auto;
  
 }
+
 .arrow{
   position: absolute;
   top: 30%;
   display: block;
-  color: rgb(139, 252, 135);
+  color:rgb(50, 2, 112);
   left: 10%;
   font-size: 50px;
 }
@@ -34,7 +36,7 @@
   top:30%;
   right:10%;
   font-size: 50px;
-  color: rgb(139, 252, 135);;
+  color: rgb(50, 2, 112);
 }
 .image-slide{
   width:800px; margin:0 auto;
